@@ -3,11 +3,15 @@
 ## Description
 
 FSSMF outlines the tenets (grounding elements) of food systems sustainability, that each framework necessarily needs to consider for consistently accounting for it. FSSMF Tenets cover Pillars and Stocks of Essential Relations pertaining to food systems sustainability. 
+
 Pillars count for three:
+
 1.	The perspectives of food systems stakeholders.
 2.	The complexity of food systems.
 3.	The transformation of food systems.
+   
 The stocks count for two:
+
 1.	Domain-Neutral Relations (DNRs).
 2.	Domain-Proper Relations (DNRs).
    
