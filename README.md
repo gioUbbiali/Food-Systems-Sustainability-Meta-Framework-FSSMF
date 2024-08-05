@@ -20,11 +20,14 @@ This repository maintains the FSSMF Atlas, a series of graphical nodes-and-edges
 ## Material
 
 Currently, this repository hosts the FSSMF Atlas charts. 
-FSSMF Atlas charts count for three:
-*The Main Chart (Atlas-MC).
-*The Auxiliary Chart 1 (Atlas-AC1).
-*The Auxiliary Chart 2 (Atlas-AC2).
-*The Auxiliary Chart 3 (Atlas-AC3).
+
+FSSMF Atlas charts count for four:
+
+1. The Main Chart (Atlas-MC).
+2. The Auxiliary Chart 1 (Atlas-AC1).
+3. The Auxiliary Chart 2 (Atlas-AC2).
+4. The Auxiliary Chart 3 (Atlas-AC3).
+   
 Atlas-MC extends FSSMF vocabularies from SCO and BFO. Each auxiliary map outlines the vocabulary primarily relating to one of the three pillars. The auxiliary charts also provide links to external literature resources.
 
 The article referred to in the "publication and documentation" section of this repository presents the methodologies employed to construct FSSMF Atlas Charts.
