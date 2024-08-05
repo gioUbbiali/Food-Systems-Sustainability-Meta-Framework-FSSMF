@@ -1,1 +1,57 @@
-# Food Systems Sustainability Meta-Framework FSSMF
+# Food Systems Sustainability Meta-Framework (FSSMF)
+
+## Description
+
+FSSMF outlines the tenets (grounding elements) of food systems sustainability, that each framework necessarily needs to consider for consistently accounting for it. FSSMF Tenets cover Pillars and Stocks of Essential Relations pertaining to food systems sustainability. 
+Pillars count for three:
+1.	The perspectives of food systems stakeholders.
+2.	The complexity of food systems.
+3.	The transformation of food systems.
+The stocks count for two:
+1.	Domain-Neutral Relations (DNRs).
+2.	Domain-Proper Relations (DNRs).
+   
+This repository maintains the FSSMF Atlas, a series of graphical nodes-and-edges-based illustrations (Charts), structuring the FSSMF vocabulary. Currently, FSSMF adopts the OBO-Foundry perspective of ontological realism. FSSMF Atlas versions adopting alternative ontological perspectives will come soon.
+
+## Material
+
+Currently, this repository hosts the FSSMF Atlas charts. 
+FSSMF Atlas charts count for three:
+*The Main Chart (Atlas-MC).
+*The Auxiliary Chart 1 (Atlas-AC1).
+*The Auxiliary Chart 2 (Atlas-AC2).
+*The Auxiliary Chart 3 (Atlas-AC3).
+Atlas-MC extends FSSMF vocabularies from SCO and BFO. Each auxiliary map outlines the vocabulary primarily relating to one of the three pillars. The auxiliary charts also provide links to external literature resources.
+
+The article referred to in the "publication and documentation" section of this repository presents the methodologies employed to construct FSSMF Atlas Charts.
+
+FSSMF Atlas charts are available in both CXL and PDF formats. We suggest downloading and exploring FSSMF Atlas charts with CmapTools (Version 6.03), the software used to create them.
+
+##  FSSMF Authors  
+
+[Giorgio A.Ubbiali](https://orcid.org/0000-0001-7872-1770)
+
+[Andrea Borghini](https://orcid.org/0000-0002-2239-1482)
+
+[Matthew C. Lange](https://orcid.org/0000-0002-6148-7962)
+
+
+## Currently involved institutions
+
+[UNIMI](https://www.unimi.it/it)
+
+[IC-FOODS](https://www.ic-foods.org/)
+
+
+## Contact
+
+Giorgio.Ubbiali@unimi.it
+
+
+## Publications and documentation
+
+Coming soon.
+
+
+## License
+This work is licensed under [CC BY 4.0 ](https://creativecommons.org/licenses/by/4.0/)
