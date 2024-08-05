@@ -28,11 +28,11 @@ FSSMF Atlas charts count for four:
 3. The Auxiliary Chart 2 (Atlas-AC2).
 4. The Auxiliary Chart 3 (Atlas-AC3).
    
-Atlas-MC extends FSSMF vocabularies from SCO and BFO. Each auxiliary map outlines the vocabulary primarily relating to one of the three pillars. The auxiliary charts also provide links to external literature resources.
+Atlas-MC extends FSSMF vocabularies from [Sustainability Core Ontology (SCO)](https://github.com/gioUbbiali/The-List-of-Sustainability-Ontologies.git) and [Basic Formal Ontology (BFO)](https://github.com/BFO-ontology/BFO-2020.git). Each auxiliary map outlines the vocabulary primarily relating to one of the three pillars. The auxiliary charts also provide links to external literature resources.
 
 The article referred to in the "publication and documentation" section of this repository presents the methodologies employed to construct FSSMF Atlas Charts.
 
-FSSMF Atlas charts are available in both CXL and PDF formats. We suggest downloading and exploring FSSMF Atlas charts with CmapTools (Version 6.03), the software used to create them.
+FSSMF Atlas charts are available in both CXL and PDF formats. We suggest downloading and exploring FSSMF Atlas charts with [CmapTools](https://cmap.ihmc.us/) (Version 6.03), the software used to create them.
 
 ##  FSSMF Authors  
 
