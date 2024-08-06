@@ -25,7 +25,7 @@ FSSMF Atlas charts count for four:
 
 1. [The Main Chart (Atlas-MC).](https://github.com/gioUbbiali/Food-Systems-Sustainability-Meta-Framework-FSSMF/tree/6e6667760ddf6740965c12d15c5a47f75dbbd4ac/FSSMF%20Altas-MC)
 2. [The Auxiliary Chart 1 (Atlas-AC1).](https://github.com/gioUbbiali/Food-Systems-Sustainability-Meta-Framework-FSSMF/tree/59c92ea17c6f156c860635e511304c48a8104841/FSSMF%20Altas-AC1)
-3. [The Auxiliary Chart 2 (Atlas-AC2)](https://github.com/gioUbbiali/Food-Systems-Sustainability-Meta-Framework-FSSMF/tree/3b1583cb8070010cb4c521c88aaeb9ecb809a087/FSSMF%20Altas-AC2).
+3. [The Auxiliary Chart 2 (Atlas-AC2).](https://github.com/gioUbbiali/Food-Systems-Sustainability-Meta-Framework-FSSMF/tree/3b1583cb8070010cb4c521c88aaeb9ecb809a087/FSSMF%20Altas-AC2)
 4. [The Auxiliary Chart 3 (Atlas-AC3).](https://github.com/gioUbbiali/Food-Systems-Sustainability-Meta-Framework-FSSMF/tree/a773f6438fa9aa20e02f63a9944de1d135044998/FSSMF%20Altas-AC3)
    
 Atlas-MC extends FSSMF vocabularies from [Sustainability Core Ontology (SCO)](https://github.com/gioUbbiali/The-List-of-Sustainability-Ontologies.git) and [Basic Formal Ontology (BFO)](https://github.com/BFO-ontology/BFO-2020.git). Each auxiliary map outlines the vocabulary primarily relating to one of the three pillars. The auxiliary charts also provide links to external literature resources.
