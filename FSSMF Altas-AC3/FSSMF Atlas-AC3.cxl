@@ -10,13 +10,13 @@
             <vcard:FN>Giorgio Ubbiali, Matthew Lange</vcard:FN>
             <vcard:EMAIL>ga.ubbiali@gmail.com</vcard:EMAIL>
         </dc:contributor>
-        <dcterms:created>2024-06-05T11:01:30+02:00</dcterms:created>
-        <dcterms:modified>2024-06-05T11:01:30+02:00</dcterms:modified>
+        <dcterms:created>2024-06-05T11:03:13+02:00</dcterms:created>
+        <dcterms:modified>2024-10-16T19:22:07+02:00</dcterms:modified>
         <dc:language>en-US</dc:language>
         <dc:format>x-cmap/x-storable</dc:format>
         <dc:publisher>FIHMC CmapTools 6.03</dc:publisher>
-        <dc:extent>663479 bytes</dc:extent>
-        <dc:source>cmap:1MHZH5RK6-2C8DRLF-1:1Y0HW0SW1-H3NZ71-BL:20F90W0DM-1344X53-253NGT</dc:source>
+        <dc:extent>660473 bytes</dc:extent>
+        <dc:source>cmap:1Z4SNV1FC-24V21CH-1:20F9142XM-1C5FXL3-ZNL:20F90YLM7-XW6V5D-W8G</dc:source>
     </res-meta>
     <map width="31484" height="14440">
         <concept-list>
@@ -109,7 +109,7 @@
             <concept id="1YF2PDZ38-1HP5S5H-387T" parent-id="1YVTRN48M-3VT1JW-3L1J" label="food system sensitivity" group-order="5"/>
             <concept id="20DSYK8V7-FLSDGK-20NR" label="food system component approach"/>
             <concept id="20F64YWCM-130MGQK-68JK" label="social capital " group-order="40"/>
-            <concept id="20CQN51X8-KVMPXS-MCD2" parent-id="1YVTRN48M-3VT1JW-3L1J" label="BFO: quality" group-order="12"/>
+            <concept id="20CQN51X8-KVMPXS-MCD2" parent-id="1YVTRN48M-3VT1JW-3L1J" label="BFO: disposition" group-order="12"/>
             <concept id="20CQSK762-PWWWT7-MN5V" parent-id="1ZRTDXL03-2C2J4VJ-17FR" label="BFO: disposition" group-order="2"/>
             <concept id="1YFRVYHMG-29YV17B-5GMJ" parent-id="1YVTY981P-11D4N4W-5K38" label="environmental need" group-order="1"/>
             <concept id="1YFVNNDKD-1W93LN2-7FL8" parent-id="1ZSZ8WTWM-13B96MS-FCV" label="stunting" group-order="19"/>
@@ -120,7 +120,7 @@
             <concept id="20CQMHH11-223Y8SC-MB1F" label="BFO: fiat object part" group-order="32"/>
             <concept id="1YFVQX9XD-1JKFY3K-9MKB" parent-id="1ZSZ8WTWM-13B96MS-FCV" label="hunger" group-order="7"/>
             <concept id="20F64XW5D-FN1XXZ-686V" label="built capital" group-order="9"/>
-            <concept id="20CQNGMKC-1DZPZMD-MDBR" parent-id="1YVTRN48M-3VT1JW-3L1J" label="BFO: quality" group-order="14"/>
+            <concept id="20CQNGMKC-1DZPZMD-MDBR" parent-id="1YVTRN48M-3VT1JW-3L1J" label="BFO: disposition" group-order="14"/>
             <concept id="1YF2QQMMR-18RLK4B-4HR8" parent-id="1ZRTDXL03-2C2J4VJ-17FR" label="food quantity" group-order="12"/>
             <concept id="1YF2NFXS8-1GKBF6Z-2QYP" label="food system state" group-order="0"/>
             <concept id="1YDT146G5-2936G62-1B68" parent-id="1YVTY981P-11D4N4W-5K38" label="human well-being" group-order="22"/>
@@ -411,8 +411,8 @@
                     resource-folder-id="20CJKJGBJ-17TXDMM-LKG1" resource-id="20D0MCYWR-10XD4WB-PT9R" resource-url="https://cmapscloud.ihmc.us:443/rid=20D0MCYWR-10XD4WB-PT9R/Mbow%20et%20al.,%202019%20chapter%205.url?redirect"/>
             </resource-group>
             <resource-group parent-id="208Y9PCQM-LDPC53-5JS9" group-type="cmap">
-                <resource id="20F90TM4S-29HQR3Y-LFK" label="FSSMF Atlas-MC - extending SCO" description="" resource-name="FSSMF Atlas-MC - extending SCO" resource-mimetype="x-cmap/x-storable" resource-server-id="1MHZH5RK6-2C8DRLF-1"
-                    resource-folder-id="1Y0HW0SW1-H3NZ71-BL" resource-id="20F9056S0-12JPG7L-251CJY" resource-url="https://cmapscloud.ihmc.us:443/rid=20F9056S0-12JPG7L-251CJY/FSSMF%20Atlas-MC%20-%20extending%20SCO.cmap"/>
+                <resource id="20F90TM4S-29HQR3Y-LFK" label="FSSMF Atlas-MC - extending SCO" description="" resource-name="FSSMF Atlas-MC - extending SCO" resource-mimetype="x-cmap/x-storable" resource-server-id="1Z4SNV1FC-24V21CH-1"
+                    resource-folder-id="1Z4SNV5VS-RJG4H0-Z" resource-id="20F90YLM7-1069PD9-W8H" resource-url="file:///C:/Users/gaubb/Documents/My Cmaps/Ubbiali meta-frameowrk/FSSMF Atlas-MC - extending SCO.cmap"/>
             </resource-group>
             <resource-group parent-id="1YFRVPBNV-1T8N41B-50WH" group-type="webaddress">
                 <resource id="20CYTPL7C-14NR2P-PSVF" label="Sen, 1993" description="" resource-name="Sen, 1993" resource-mimetype="text/x-url" resource-server-id="1MHZH5RK6-2C8DRLF-1" resource-folder-id="20CJKJGBJ-17TXDMM-LKG1"
@@ -1379,7 +1379,7 @@
             <concept-appearance id="20DSYK8V7-FLSDGK-20NR" x="173" y="347" width="328" height="47" font-name="Verdana" font-size="18" font-style="italic" font-color="0,0,0,255" text-margin="4" background-color="237,244,246,255" border-color="0,0,0,255"
                 border-style="solid" border-thickness="1" border-shape="rounded-rectangle" border-shape-rrarc="15.0" text-alignment="center" shadow-color="none" min-width="123" min-height="25" max-width="-1.0" stylesheet-id="20DSYK8V7-1YDTHXF-20NV"/>
             <concept-appearance id="20F64YWCM-130MGQK-68JK" x="1726" y="360" width="143" height="33" font-size="18" font-style="italic" background-color="204,255,255,255" border-color="0,0,0,255" border-thickness="1" shadow-color="none" stylesheet-id="20F64YWCM-M646V2-68JN"/>
-            <concept-appearance id="20CQN51X8-KVMPXS-MCD2" x="968" y="677" width="133" height="33" font-size="18" font-style="italic" background-color="150,200,255,255" border-thickness="1" shadow-color="none" stylesheet-id="20CQN51X8-1WQ4BW9-MCD5"/>
+            <concept-appearance id="20CQN51X8-KVMPXS-MCD2" x="968" y="677" width="169" height="33" font-size="18" font-style="italic" background-color="150,200,255,255" border-thickness="1" shadow-color="none" stylesheet-id="20CQN51X8-1WQ4BW9-MCD5"/>
             <concept-appearance id="20CQSK762-PWWWT7-MN5V" x="897" y="1598" width="169" height="33" font-size="18" font-style="italic" background-color="150,200,255,255" border-thickness="1" shadow-color="none" stylesheet-id="20CQSK762-BCY5DF-MN5Y"/>
             <concept-appearance id="1YFRVYHMG-29YV17B-5GMJ" x="3628" y="1427" width="202" height="30" font-size="18" font-style="italic" background-color="255,204,204,255" border-color="0,0,0,255" border-thickness="1" shadow-color="none"/>
             <concept-appearance id="1YFVNNDKD-1W93LN2-7FL8" x="3003" y="2443" width="95" height="33" font-size="18" font-style="italic" background-color="255,204,204,255" border-color="0,0,0,255" border-thickness="1" shadow-color="none"/>
@@ -1391,7 +1391,7 @@
             <concept-appearance id="20CQMHH11-223Y8SC-MB1F" x="813" y="377" width="207" height="33" font-size="18" font-style="italic" background-color="150,200,255,255" border-thickness="1" shadow-color="none" stylesheet-id="20CQMHH11-RDKNJX-MB1J"/>
             <concept-appearance id="1YFVQX9XD-1JKFY3K-9MKB" x="2594" y="2083" width="85" height="33" font-size="18" font-style="italic" background-color="255,204,204,255" border-color="0,0,0,255" border-thickness="1" shadow-color="none"/>
             <concept-appearance id="20F64XW5D-FN1XXZ-686V" x="1417" y="355" width="126" height="33" font-size="18" font-style="italic" background-color="204,255,255,255" border-color="0,0,0,255" border-thickness="1" shadow-color="none" stylesheet-id="20F64XW5D-LV4NSJ-686Y"/>
-            <concept-appearance id="20CQNGMKC-1DZPZMD-MDBR" x="956" y="1067" width="133" height="33" font-size="18" font-style="italic" background-color="150,200,255,255" border-thickness="1" shadow-color="none" stylesheet-id="20CQNGMKC-2B05KBZ-MDBV"/>
+            <concept-appearance id="20CQNGMKC-1DZPZMD-MDBR" x="956" y="1067" width="169" height="33" font-size="18" font-style="italic" background-color="150,200,255,255" border-thickness="1" shadow-color="none" stylesheet-id="20CQNGMKC-2B05KBZ-MDBV"/>
             <concept-appearance id="1YF2QQMMR-18RLK4B-4HR8" x="1856" y="2185" width="141" height="33" font-size="18" font-style="italic" background-color="255,204,204,255" border-color="0,0,0,255" border-thickness="1" shadow-color="none"/>
             <concept-appearance id="1YF2NFXS8-1GKBF6Z-2QYP" x="502" y="1282" width="183" height="47" font-size="18" font-style="italic" background-color="204,255,255,255" border-color="0,0,0,255" border-thickness="1" shadow-color="none"/>
             <concept-appearance id="1YDT146G5-2936G62-1B68" x="1965" y="1099" width="183" height="33" font-size="18" font-style="italic" background-color="255,153,153,255" border-color="0,0,0,255" border-thickness="1" shadow-color="none"/>
@@ -3127,7 +3127,7 @@
                 <property key="_urlString" value="https://cmapscloud.ihmc.us:443/rid=20CNP58V9-2BL67NQ-LXLX/Kline%20et%20al.,%202018.url?redirect"/>
             </properties-list>
             <properties-list id="20F90TM4S-29HQR3Y-LFK">
-                <property key="_urlString" value="https://cmapscloud.ihmc.us:443/rid=20F9056S0-12JPG7L-251CJY/FSSMF%20Atlas-MC%20-%20extending%20SCO.cmap"/>
+                <property key="_urlString" value="file:///C:/Users/gaubb/Documents/My Cmaps/Ubbiali meta-frameowrk/FSSMF Atlas-MC - extending SCO.cmap"/>
             </properties-list>
             <properties-list id="20DSYK8V7-1C2J8T8-20S0">
                 <property key="_urlString" value="https://cmapscloud.ihmc.us:443/rid=20CK9J64D-2B8L020-LP9F/Bernstein,%202015.url?redirect"/>
@@ -3371,7 +3371,7 @@
             </properties-list>
         </extra-properties-list>
         <extra-graphical-properties-list>
-            <properties-list id="20F90W0DM-1344X53-253NGT">
+            <properties-list id="20F90YLM7-XW6V5D-W8G">
                 <property key="StyleSheetGroup_0" value="//*@!#$%%^&amp;*()() No Grouped StyleSheets @"/>
             </properties-list>
         </extra-graphical-properties-list>

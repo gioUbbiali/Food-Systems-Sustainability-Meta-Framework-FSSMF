@@ -23,13 +23,13 @@
                 <vcard:Orgname>UNIMI</vcard:Orgname>
             </vcard:ORG>
         </dcterms:rightsHolder>
-        <dcterms:created>2024-06-05T09:21:22+02:00</dcterms:created>
-        <dcterms:modified>2024-06-05T10:52:38+02:00</dcterms:modified>
+        <dcterms:created>2024-06-05T11:03:03+02:00</dcterms:created>
+        <dcterms:modified>2024-10-16T19:20:54+02:00</dcterms:modified>
         <dc:language>it</dc:language>
         <dc:format>x-cmap/x-storable</dc:format>
         <dc:publisher>FIHMC CmapTools 6.03</dc:publisher>
-        <dc:extent>862365 bytes</dc:extent>
-        <dc:source>cmap:1MHZH5RK6-2C8DRLF-1:1Y0HW0SW1-H3NZ71-BL:20F8T0VV2-23V56JD-7BCK</dc:source>
+        <dc:extent>54194 bytes</dc:extent>
+        <dc:source>cmap:1Z4SNV1FC-24V21CH-1:20F9142XM-1C5FXL3-ZNL:20F90YLM7-1SPKCK8-W8F</dc:source>
     </res-meta>
     <map width="9328" height="3392">
         <concept-list>
@@ -42,11 +42,11 @@
             <concept id="208TQQPVZ-SPBHK4-4JK4" label="BFO: generically dependent continuant "/>
             <concept id="2075S2DG4-18W5FH2-2FD3" parent-id="2075S2DG1-X8CGJG-2F4L" label="third-party goal" group-order="21"/>
             <concept id="2075S2DG3-9GJL9B-2F62" parent-id="2075S2DG1-X8CGJG-2F4L" label="simplicity" group-order="12"/>
-            <concept id="20DT0TSVV-5598SG-28DG" label="BFO:quality" group-order="38"/>
+            <concept id="20DT0TSVV-5598SG-28DG" label="BFO: disposition" group-order="38"/>
             <concept id="2075S2DG3-1212C1S-2F7J" parent-id="2075S2DG1-X8CGJG-2F4L" label="food system stakeholder approach" group-order="14"/>
             <concept id="2075S2DG4-15P2F7T-2FFL" parent-id="2075S2DG1-X8CGJG-2F4L" label="food system stakeholder experience" group-order="28"/>
             <concept id="2075S2DG6-11C5PZ4-2FKK" label="food system scale"/>
-            <concept id="20DT0VMZQ-8MGXTW-28NC" label="BFO:quality" group-order="38"/>
+            <concept id="20DT0VMZQ-8MGXTW-28NC" label="BFO:disposition" group-order="38"/>
             <concept id="20DT0C5GV-FF3PSD-255Y" label="food system stability" group-order="3"/>
             <concept id="2075S2DG5-15WQMJX-2FFZ" parent-id="2075S2DG1-X8CGJG-2F4L" label="network model" group-order="29"/>
             <concept id="2075S2DG3-F0RBYQ-2F4X" parent-id="2075S2DG1-X8CGJG-2F4L" label="theory" group-order="3"/>
@@ -473,8 +473,8 @@
                     resource-id="20CKKM0ZZ-N18QF0-LQDC" resource-url="https://cmapscloud.ihmc.us:443/rid=20CKKM0ZZ-N18QF0-LQDC/Sayama,%202015.url?redirect"/>
             </resource-group>
             <resource-group parent-id="2075S2DG4-29P886P-2FCX" group-type="cmap">
-                <resource id="20F908QHZ-2CY5CV3-DPN" label="FSSMF Atlas-MC - extending SCO" description="" resource-name="FSSMF Atlas-MC - extending SCO" resource-mimetype="x-cmap/x-storable" resource-server-id="1MHZH5RK6-2C8DRLF-1"
-                    resource-folder-id="1Y0HW0SW1-H3NZ71-BL" resource-id="20F9056S0-12JPG7L-251CJY" resource-url="https://cmapscloud.ihmc.us:443/rid=20F9056S0-12JPG7L-251CJY/FSSMF%20Atlas-MC%20-%20extending%20SCO.cmap"/>
+                <resource id="20F908QHZ-2CY5CV3-DPN" label="FSSMF Atlas-MC - extending SCO" description="" resource-name="FSSMF Atlas-MC - extending SCO" resource-mimetype="x-cmap/x-storable" resource-server-id="1Z4SNV1FC-24V21CH-1"
+                    resource-folder-id="1Z4SNV5VS-RJG4H0-Z" resource-id="20F90YLM7-1069PD9-W8H" resource-url="file:///C:/Users/gaubb/Documents/My Cmaps/Ubbiali meta-frameowrk/FSSMF Atlas-MC - extending SCO.cmap"/>
             </resource-group>
             <resource-group parent-id="20D0XYN5G-2658PTQ-Q230" group-type="webaddress">
                 <resource id="20D0XYN5G-2446D2D-Q236" label="Well-Being (Stanford Encyclopedia of Philosophy)" description="" resource-name="Well-Being (Stanford Encyclopedia of Philosophy)" resource-mimetype="text/x-url"
@@ -769,12 +769,12 @@
             <concept-appearance id="2075S2DG4-18W5FH2-2FD3" x="1174" y="762" width="163" height="33" font-size="18" font-style="italic" background-color="237,244,246,255" border-color="0,0,0,255" border-thickness="1" shadow-color="none" stylesheet-id="2075S2DFP-1Q1S1K6-2D1K"/>
             <concept-appearance id="2075S2DG3-9GJL9B-2F62" x="1855" y="1434" width="106" height="33" font-name="Verdana" font-size="18" font-style="italic" font-color="0,0,0,255" text-margin="4" background-color="237,244,246,255" border-color="0,0,0,255"
                 border-thickness="1" border-shape-rrarc="15.0" shadow-color="none" max-width="-1.0" stylesheet-id="2075S2DFP-1Q1S1K6-2D1K"/>
-            <concept-appearance id="20DT0TSVV-5598SG-28DG" x="2270" y="738" width="127" height="33" font-size="18" font-style="italic" background-color="150,200,255,255" border-thickness="1" stylesheet-id="20DT0TSVV-VCKC3M-28DK"/>
+            <concept-appearance id="20DT0TSVV-5598SG-28DG" x="2270" y="738" width="169" height="33" font-size="18" font-style="italic" background-color="150,200,255,255" border-thickness="1" stylesheet-id="20DT0TSVV-VCKC3M-28DK"/>
             <concept-appearance id="2075S2DG3-1212C1S-2F7J" x="1123" y="1038" width="333" height="47" font-size="18" font-style="italic" background-color="150,150,150,255" border-color="0,0,0,255" border-thickness="1" shadow-color="none" stylesheet-id="2075S2DFP-1Q1S1K6-2D1K"/>
             <concept-appearance id="2075S2DG4-15P2F7T-2FFL" x="462" y="668" width="348" height="33" font-size="18" font-style="italic" background-color="237,244,246,255" border-color="0,0,0,255" border-thickness="1" shadow-color="none" stylesheet-id="2075S2DFP-1Q1S1K6-2D1K"/>
             <concept-appearance id="2075S2DG6-11C5PZ4-2FKK" x="889" y="2278" width="585" height="271" expanded="true" font-name="Verdana" font-size="18" font-style="italic" font-color="0,0,0,255" text-margin="4" background-color="200,200,200,255"
                 border-color="0,0,0,255" border-style="solid" border-thickness="1" border-shape="rounded-rectangle" border-shape-rrarc="15.0" text-alignment="center" shadow-color="none" min-width="123" min-height="25" max-width="-1.0" stylesheet-id="2075S2DFP-1Q1S1K6-2D1K"/>
-            <concept-appearance id="20DT0VMZQ-8MGXTW-28NC" x="2275" y="1163" width="127" height="33" font-size="18" font-style="italic" background-color="150,200,255,255" border-thickness="1" stylesheet-id="20DT0VMZQ-1Q41FTV-28NG"/>
+            <concept-appearance id="20DT0VMZQ-8MGXTW-28NC" x="2275" y="1163" width="162" height="33" font-size="18" font-style="italic" background-color="150,200,255,255" border-thickness="1" stylesheet-id="20DT0VMZQ-1Q41FTV-28NG"/>
             <concept-appearance id="20DT0C5GV-FF3PSD-255Y" x="2274" y="1050" width="209" height="33" font-size="18" font-style="italic" background-color="255,204,204,255" border-color="0,0,0,255" border-thickness="1" shadow-color="none" stylesheet-id="20DT0C5GV-18L4DP5-2561"/>
             <concept-appearance id="2075S2DG5-15WQMJX-2FFZ" x="1541" y="1567" width="156" height="33" font-name="Verdana" font-size="18" font-style="italic" font-color="0,0,0,255" text-margin="4" background-color="237,244,246,255" border-color="0,0,0,255"
                 border-style="solid" border-thickness="1" border-shape="rounded-rectangle" border-shape-rrarc="15.0" text-alignment="center" shadow-color="none" min-width="123" min-height="25" max-width="-1.0" stylesheet-id="2075S2DFP-1Q1S1K6-2D1K"/>
@@ -1962,7 +1962,7 @@
                 <property key="_urlString" value="https://cmapscloud.ihmc.us:443/rid=20CKMJ3D7-8GPZKW-LR3M/Haines-Young%20and%20Potschin-Young,%202010.url?redirect"/>
             </properties-list>
             <properties-list id="20F908QHZ-2CY5CV3-DPN">
-                <property key="_urlString" value="https://cmapscloud.ihmc.us:443/rid=20F9056S0-12JPG7L-251CJY/FSSMF%20Atlas-MC%20-%20extending%20SCO.cmap"/>
+                <property key="_urlString" value="file:///C:/Users/gaubb/Documents/My Cmaps/Ubbiali meta-frameowrk/FSSMF Atlas-MC - extending SCO.cmap"/>
             </properties-list>
             <properties-list id="20CYQY0SG-1KK0Q1Z-PM41">
                 <property key="_urlString" value="https://cmapscloud.ihmc.us:443/rid=20CK6WT3J-742DY3-LP5K/Griggs%20et%20al.,%202017.url?redirect"/>
@@ -1990,7 +1990,7 @@
             </properties-list>
         </extra-properties-list>
         <extra-graphical-properties-list>
-            <properties-list id="20F8T0VV2-23V56JD-7BCK">
+            <properties-list id="20F90YLM7-1SPKCK8-W8F">
                 <property key="StyleSheetGroup_0" value="//*@!#$%%^&amp;*()() No Grouped StyleSheets @"/>
             </properties-list>
         </extra-graphical-properties-list>
