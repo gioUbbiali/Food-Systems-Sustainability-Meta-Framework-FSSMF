@@ -38,7 +38,7 @@ FSSMF Atlas charts are available in CXL format. We suggest downloading and explo
 
 The following ontologies have been developed employing FSSMF:
 
-[Sustainable Meat Systems Ontology (SuMSO).](https://github.com/gioUbbiali/Sustainable-Meat-Systems-Ontology)
+- [Sustainable Meat Systems Ontology (SuMSO).](https://github.com/gioUbbiali/Sustainable-Meat-Systems-Ontology)
 
 ##  FSSMF Authors  
 
