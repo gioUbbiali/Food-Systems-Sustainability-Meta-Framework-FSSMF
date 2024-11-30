@@ -34,6 +34,12 @@ The article referred to in the "publication and documentation" section of this r
 
 FSSMF Atlas charts are available in CXL format. We suggest downloading and exploring FSSMF Atlas charts with [CmapTools](https://cmap.ihmc.us/) (Version 6.03), the software used to create them. Additional and novel environments for navigation, visualization, and retrieval of FSSMF charts will come soon.
 
+## Ontologies constructed on the basis of FSSMF
+
+The following ontologies have been developed employing FSSMF:
+
+[Sustainable Meat Systems Ontology (SuMSO).](https://github.com/gioUbbiali/Sustainable-Meat-Systems-Ontology)
+
 ##  FSSMF Authors  
 
 [Giorgio A.Ubbiali](https://orcid.org/0000-0001-7872-1770)
