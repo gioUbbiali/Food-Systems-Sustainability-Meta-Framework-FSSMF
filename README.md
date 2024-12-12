@@ -13,7 +13,7 @@ Pillars count for three:
 The stocks count for two:
 
 1.	Domain-Neutral Relations (DNRs).
-2.	Domain-Proper Relations (DNRs).
+2.	Domain-Proper Relations (DPRs).
    
 This repository maintains the FSSMF Atlas, a series of graphical nodes-and-edges-based illustrations (Charts), structuring the FSSMF vocabulary. Currently, FSSMF adopts the [OBO-Foundry](https://obofoundry.org/) perspective of ontological realism. FSSMF Atlas versions adopting alternative ontological perspectives will come soon.
 
