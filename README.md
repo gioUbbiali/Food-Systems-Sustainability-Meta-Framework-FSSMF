@@ -2,7 +2,7 @@
 
 ## Description
 
-FSSMF outlines the tenets (grounding elements) of food systems sustainability, that each framework necessarily needs to consider for consistently accounting for it. FSSMF Tenets cover Pillars and Stocks of Essential Relations pertaining to food systems sustainability. FSSMF Pillars and Stocks stand as orthogonal to the existing Food systems sustainability frameworks.
+FSSMF outlines the tenets (grounding elements) of food systems sustainability, that each framework necessarily needs to consider for consistently accounting for it. FSSMF Tenets cover Pillars and Stocks of Essential Relations pertaining to food systems sustainability. FSSMF Pillars and Stocks stand as orthogonal to existing food systems sustainability frameworks.
 
 Pillars count for three:
 
