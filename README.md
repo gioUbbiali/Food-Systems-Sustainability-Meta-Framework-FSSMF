@@ -34,7 +34,7 @@ The article referred to in the "publication and documentation" section of this r
 
 FSSMF Atlas charts are available in [CXL format](https://cmap.ihmc.us/xml/cxl.html). We suggest downloading and exploring FSSMF Atlas charts with [CmapTools](https://cmap.ihmc.us/) (Version 6.03), the software used to create them. Additional and novel environments for navigation, visualization, and retrieval of FSSMF charts will come soon.
 
-## Ontologies constructed on the basis of FSSMF
+## Ontologies Constructed on the Basis of FSSMF
 
 The following ontologies have been developed employing FSSMF:
 
@@ -49,7 +49,7 @@ The following ontologies have been developed employing FSSMF:
 [Matthew C. Lange](https://orcid.org/0000-0002-6148-7962)
 
 
-## Currently involved institutions
+## Currently Involved Institutions
 
 [UNIMI](https://www.unimi.it/it)
 
@@ -61,7 +61,7 @@ The following ontologies have been developed employing FSSMF:
 Giorgio.Ubbiali@unimi.it
 
 
-## Publications and documentation
+## Publications and Documentation
 
 Coming soon.
 
