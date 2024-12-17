@@ -13,7 +13,7 @@ Pillars count for three:
 The stocks count for two:
 
 1.	Domain-Neutral Relations (DNRs).
-2.	Domain-Proper Relations (DNRs).
+2.	Domain-Proper Relations (DPRs).
    
 This repository maintains the FSSMF Atlas, a series of graphical nodes-and-edges-based illustrations (Charts), structuring the FSSMF vocabulary. Currently, FSSMF adopts the [OBO-Foundry](https://obofoundry.org/) perspective of ontological realism (see for instance [Smith and Ceusters, 2010](https://philarchive.org/rec/SMIORA-2)). FSSMF Atlas versions adopting alternative ontological perspectives will come soon.
 
@@ -33,6 +33,12 @@ Atlas-MC extends FSSMF vocabularies from [Sustainability Core Ontology (SCO)](ht
 The article referred to in the "publication and documentation" section of this repository presents the methodologies employed to construct FSSMF Atlas Charts.
 
 FSSMF Atlas charts are available in CXL format. We suggest downloading and exploring FSSMF Atlas charts with [CmapTools](https://cmap.ihmc.us/) (Version 6.03), the software used to create them. Additional and novel environments for navigation, visualization, and retrieval of FSSMF charts will come soon.
+
+## Ontologies constructed on the basis of FSSMF
+
+The following ontologies have been developed employing FSSMF:
+
+- [Sustainable Meat Systems Ontology (SuMSO)](https://github.com/gioUbbiali/Sustainable-Meat-Systems-Ontology)
 
 ##  FSSMF Authors  
 
