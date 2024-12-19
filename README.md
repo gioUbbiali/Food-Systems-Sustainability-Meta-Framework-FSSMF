@@ -32,7 +32,7 @@ FSSMF Atlas charts count for four:
    
 Atlas-MC extends FSSMF vocabularies from [Sustainability Core Ontology (SCO)](https://github.com/gioUbbiali/The-List-of-Sustainability-Ontologies.git) and [Basic Formal Ontology (BFO)](https://github.com/BFO-ontology/BFO-2020.git). Each auxiliary map outlines the vocabulary primarily relating to one of the three pillars. The auxiliary charts also provide links to external literature resources.
 
-The article referred to in the "publication and documentation" section of this repository presents the methodologies employed to construct FSSMF Atlas Charts.
+The article referred to in the "publication and documentation" section of this repository presents the methodology employed to construct FSSMF Atlas Charts.
 
 FSSMF Atlas charts are available in [CXL format](https://cmap.ihmc.us/xml/cxl.html). We suggest downloading and exploring FSSMF Atlas charts with [CmapTools](https://cmap.ihmc.us/) (Version 6.03), the software used to create them. FSSMF Atlas charts should be imported locally or in Cmap cloud. Additional and novel environments for navigation, visualization, and retrieval of FSSMF charts will come soon.
 
