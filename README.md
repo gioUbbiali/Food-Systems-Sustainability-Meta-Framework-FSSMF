@@ -36,9 +36,9 @@ The article referred to in the "publication and documentation" section of this r
 
 FSSMF Atlas charts are available in [CXL format](https://cmap.ihmc.us/xml/cxl.html) and PDF format. We suggest downloading and exploring charts with [CmapTools](https://cmap.ihmc.us/) (Version 6.03), to optimally visualize FSSMF Atlas. Charts should be imported locally or in Cmap cloud. Alternatively, charts may be viewed in PDF format. PDF versions, however, do not retain the functionality to access resources linked in the charts (See the following figure). Novel environments for navigation, visualization, and retrieval of FSSMF charts will come soon.
 
-![Fig  Chart extract](https://github.com/user-attachments/assets/902924ec-f51f-4ab5-a5b2-a8d6aa1b0a42)
+![Fig  Chart Extract](https://github.com/user-attachments/assets/cce61b13-a8b7-4525-ad0f-465ea40274c4)
 
-Fig. Extract from Atlas-AC1. Red circles indicate examples of chart links to external resources.
+Fig. Extract from Atlas-AC1. The red circle indicates an example of chart link to external resources.
 
 ## Ontologies Constructed on the Basis of FSSMF
 
