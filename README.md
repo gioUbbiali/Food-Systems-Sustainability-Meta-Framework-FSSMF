@@ -38,7 +38,7 @@ FSSMF Atlas charts are available in [CXL format](https://cmap.ihmc.us/xml/cxl.ht
 
 ![Fig  Chart Extract](https://github.com/user-attachments/assets/cce61b13-a8b7-4525-ad0f-465ea40274c4)
 
-Fig. Extract from Atlas-AC1. The red circle indicates an example of chart link to external resources.
+Fig. Extract from Atlas-AC1.The red circle: link to external resources (an example).
 
 ## Ontologies Constructed on the Basis of FSSMF
 
