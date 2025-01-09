@@ -34,7 +34,7 @@ Atlas-MC extends FSSMF vocabularies from [Sustainability Core Ontology (SCO)](ht
 
 The article referred to in the "publication and documentation" section of this repository presents the methodology employed to construct FSSMF Atlas Charts.
 
-FSSMF Atlas charts are available in [CXL format](https://cmap.ihmc.us/xml/cxl.html) and PDF format. We suggest downloading and exploring FSSMF Atlas charts with [CmapTools](https://cmap.ihmc.us/) (Version 6.03), the software used to create them, to optimally visualize FSSMF Atlas. FSSMF Atlas charts should be imported locally or in Cmap cloud. Alternatively, charts may be viewed in PDF format. PDF versions, however, do not retain the functionality to access resources linked in the charts (See the following figure). Novel environments for navigation, visualization, and retrieval of FSSMF charts will come soon.
+FSSMF Atlas charts are available in [CXL format](https://cmap.ihmc.us/xml/cxl.html) and PDF format. We suggest downloading and exploring charts with [CmapTools](https://cmap.ihmc.us/) (Version 6.03), to optimally visualize FSSMF Atlas. Charts should be imported locally or in Cmap cloud. Alternatively, charts may be viewed in PDF format. PDF versions, however, do not retain the functionality to access resources linked in the charts (See the following figure). Novel environments for navigation, visualization, and retrieval of FSSMF charts will come soon.
 
 ![Fig  Extract Atlas charts](https://github.com/user-attachments/assets/12ec5228-e14c-4849-b2a6-33d2d9711765)
 
