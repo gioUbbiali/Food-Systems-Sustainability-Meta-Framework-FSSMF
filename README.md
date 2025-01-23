@@ -2,7 +2,7 @@
 
 ## Description
 
-FSSMF is a meta-framework for food systems sustainability, i.e. a foundational descriptive-prescriptive structure outlining the tenets (grounding elements) of food systems sustainability that each framework necessarily needs to consider for consistently accounting for it. FSSMF Tenets cover Pillars and Stocks of Essential Relations. FSSMF Pillars and Stocks stand as orthogonal to existing food systems sustainability frameworks.
+FSSMF is a meta-framework for food systems sustainability, i.e. a foundational descriptive-prescriptive structure outlining the tenets (grounding elements) of food systems sustainability that each framework should consider for consistently accounting for it. FSSMF Tenets cover Pillars and Stocks of Essential Relations. FSSMF Pillars and Stocks stand as orthogonal to existing food systems sustainability frameworks. 
 
 Pillars count for three:
 
@@ -19,6 +19,8 @@ See the article referred to in the "publication and documentation" section of th
    
 This repository maintains the FSSMF Atlas, a series of graphical nodes-and-edges-based illustrations (Charts), structuring the FSSMF vocabulary. Currently, FSSMF adopts the [OBO-Foundry](https://obofoundry.org/) perspective of ontological realism (see for instance [Arp et al. (2015)](https://mitpress.mit.edu/9780262527811/building-ontologies-with-basic-formal-ontology/) and [Smith and Ceusters (2010)](https://philarchive.org/rec/SMIORA-2)). Future versions of the FSSMF Atlas will also adopt alternative ontological perspectives.
 
+FSSMF and its Atlas aim primarily to support the consistent design of ontologies addressing food systems sustainability.
+
 ## Material
 
 Currently, this repository hosts the FSSMF Atlas charts. 
@@ -30,9 +32,9 @@ FSSMF Atlas charts count for four:
 3. [The Auxiliary Chart 2 (Atlas-AC2).](https://github.com/gioUbbiali/Food-Systems-Sustainability-Meta-Framework-FSSMF/tree/3b1583cb8070010cb4c521c88aaeb9ecb809a087/FSSMF%20Altas-AC2)
 4. [The Auxiliary Chart 3 (Atlas-AC3).](https://github.com/gioUbbiali/Food-Systems-Sustainability-Meta-Framework-FSSMF/tree/a773f6438fa9aa20e02f63a9944de1d135044998/FSSMF%20Altas-AC3)
    
-Atlas-MC extends a core FSSMF vocabulary from [the Sustainability Core Ontology (SCO) structured vocabulary (SCO SV)](https://github.com/gioUbbiali/The-List-of-Sustainability-Ontologies.git) and [Basic Formal Ontology (BFO)](https://github.com/BFO-ontology/BFO-2020.git). Each auxiliary map outlines furhter terminologies, primarily relating to one of the three pillars (the number of the Atlas-AC corresponds to the Pillar on which the chart focuses). The auxiliary charts also provide links to external literature resources (See the following figure).
+Atlas-MC extends a core FSSMF vocabulary from [the Sustainability Core Ontology (SCO) structured vocabulary (SCO SV)](https://github.com/gioUbbiali/The-List-of-Sustainability-Ontologies.git) and [Basic Formal Ontology (BFO)](https://github.com/BFO-ontology/BFO-2020.git). Each auxiliary map outlines further terminologies, primarily relating to one of the three pillars (the number of the Atlas-AC corresponds to the Pillar on which the chart focuses). The auxiliary charts also provide links to external literature resources (See the following figure).
 
-The article referred to in the "publication and documentation" section of this repository presents furhter details on FSSMF Atlas as well as the methodology employed to construct it.
+The article referred to in the "publication and documentation" section of this repository presents additional details on FSSMF Atlas as well as the methodology employed to construct it.
 
 FSSMF Atlas charts are available in [CXL format](https://cmap.ihmc.us/xml/cxl.html) and PDF format. We suggest downloading and exploring charts with [CmapTools](https://cmap.ihmc.us/) (Version 6.03), to optimally visualize FSSMF Atlas. Charts should be imported locally or in Cmap cloud. Alternatively, charts may be viewed in PDF format. PDF versions, however, do not retain the functionality to access resources linked in the charts (See the following figure). Novel environments for navigation, visualization, and retrieval of FSSMF charts will come soon.
 
