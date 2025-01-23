@@ -30,7 +30,7 @@ FSSMF Atlas charts count for four:
 3. [The Auxiliary Chart 2 (Atlas-AC2).](https://github.com/gioUbbiali/Food-Systems-Sustainability-Meta-Framework-FSSMF/tree/3b1583cb8070010cb4c521c88aaeb9ecb809a087/FSSMF%20Altas-AC2)
 4. [The Auxiliary Chart 3 (Atlas-AC3).](https://github.com/gioUbbiali/Food-Systems-Sustainability-Meta-Framework-FSSMF/tree/a773f6438fa9aa20e02f63a9944de1d135044998/FSSMF%20Altas-AC3)
    
-Atlas-MC extends a core FSSMF vocabulary from [the Sustainability Core Ontology (SCO) structured vocabulary (SCO SV)](https://github.com/gioUbbiali/The-List-of-Sustainability-Ontologies.git) and [Basic Formal Ontology (BFO)](https://github.com/BFO-ontology/BFO-2020.git). Each auxiliary map outlines furhter terminologies, primarily relating to one of the three pillars. The auxiliary charts also provide links to external literature resources.
+Atlas-MC extends a core FSSMF vocabulary from [the Sustainability Core Ontology (SCO) structured vocabulary (SCO SV)](https://github.com/gioUbbiali/The-List-of-Sustainability-Ontologies.git) and [Basic Formal Ontology (BFO)](https://github.com/BFO-ontology/BFO-2020.git). Each auxiliary map outlines furhter terminologies, primarily relating to one of the three pillars (the number of the Atlas-AC corresponds to the Pillar on which the chart focuses). The auxiliary charts also provide links to external literature resources.
 
 The article referred to in the "publication and documentation" section of this repository presents the methodology employed to construct FSSMF Atlas Charts.
 
