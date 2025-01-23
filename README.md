@@ -17,7 +17,7 @@ The stocks count for two:
 
 See the article referred to in the "publication and documentation" section of this repository for details.
    
-This repository maintains the FSSMF Atlas, a series of graphical nodes-and-edges-based illustrations (Charts), structuring the FSSMF vocabulary. Currently, FSSMF adopts the [OBO-Foundry](https://obofoundry.org/) perspective of ontological realism (see for instance [Arp et al. (2015)](https://mitpress.mit.edu/9780262527811/building-ontologies-with-basic-formal-ontology/) and [Smith and Ceusters (2010)](https://philarchive.org/rec/SMIORA-2)). FSSMF Atlas versions adopting alternative ontological perspectives will come soon.
+This repository maintains the FSSMF Atlas, a series of graphical nodes-and-edges-based illustrations (Charts), structuring the FSSMF vocabulary. Currently, FSSMF adopts the [OBO-Foundry](https://obofoundry.org/) perspective of ontological realism (see for instance [Arp et al. (2015)](https://mitpress.mit.edu/9780262527811/building-ontologies-with-basic-formal-ontology/) and [Smith and Ceusters (2010)](https://philarchive.org/rec/SMIORA-2)). Future versions of the FSSMF Atlas will also adopt alternative ontological perspectives.
 
 ## Material
 
