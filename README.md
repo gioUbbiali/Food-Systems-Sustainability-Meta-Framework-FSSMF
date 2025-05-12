@@ -34,7 +34,7 @@ FSSMF Atlas charts count for four:
    
 Atlas-MC extends a core FSSMF vocabulary from the [Sustainability Core Ontology (SCO) structured vocabulary (SCO SV)](https://github.com/gioUbbiali/The-List-of-Sustainability-Ontologies.git) and [Basic Formal Ontology (BFO)](https://github.com/BFO-ontology/BFO-2020.git). Each auxiliary map outlines further terminologies, primarily relating to one of the three pillars (the number of the Atlas-AC corresponds to the Pillar on which the chart focuses). The auxiliary charts also provide links to external literature resources (See the following figure).
 
-The article referred to in the "publication and documentation" section of this repository presents additional details on FSSMF Atlas as well as the methodology employed to construct it.
+[Ubbiali (2025)](https://air.unimi.it/handle/2434/1161515) presents additional details on FSSMF Atlas as well as the methodology employed to construct it.
 
 FSSMF Atlas charts are available in [CXL format](https://cmap.ihmc.us/xml/cxl.html) and PDF format. We suggest downloading and exploring charts with [CmapTools](https://cmap.ihmc.us/) (Version 6.03), to optimally visualize FSSMF Atlas. Charts should be imported locally or in Cmap cloud. Alternatively, charts may be viewed in PDF format. PDF versions, however, do not retain the functionality to access resources linked in the charts (See the following figure). Novel environments for navigation, visualization, and retrieval of FSSMF charts will come soon.
 
@@ -71,7 +71,7 @@ Giorgio.Ubbiali@unimi.it
 
 ## Publications and Documentation
 
-Coming soon.
+Ubbiali, G. A. (2025). *Designing Foundational Strategies for Developing a Family of Food Systems Sustainability Ontologies*. PhD Thesis, UNIMI. https://air.unimi.it/handle/2434/1161515
 
 
 ## License
